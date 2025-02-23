@@ -2,3 +2,5 @@
 
 Adobe Color
 Color Tool - Material design
+Color Hunt
+Google Fonts
